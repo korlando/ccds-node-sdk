@@ -1,0 +1,26 @@
+{
+  "name": "ccds-node-sdk",
+  "version": "0.0.1",
+  "description": "Library to use the CCDS API in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/korlando/ccds-node-sdk.git"
+  },
+  "author": "Keith Orlando <***REMOVED***>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/korlando/ccds-node-sdk/issues"
+  },
+  "homepage": "https://github.com/korlando/ccds-node-sdk#readme",
+  "dependencies": {
+    "argon2": "^0.19.0",
+    "axios": "^0.18.0"
+  },
+  "devDependencies": {
+    "jest": "^22.4.3"
+  }
+}
