@@ -10,7 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/korlando/ccds-node-sdk.git"
   },
-  "author": "Keith Orlando <***REMOVED***>",
+  "author": {
+    "name": "Keith Orlando",
+    "email": "keith@airk.ai"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/korlando/ccds-node-sdk/issues"
